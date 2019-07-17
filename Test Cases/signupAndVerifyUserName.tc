@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>signupAndVerifyUserName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff381b97-7caf-4cc4-b617-157bd542e095</testCaseGuid>
+   <variable>
+      <defaultValue>'chaitanya'</defaultValue>
+      <description></description>
+      <id>4b135938-7f86-43d4-8f27-471597829e2a</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+</TestCaseEntity>

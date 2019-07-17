@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>validateSignUpErrorMessages</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a1dc8af-39eb-480e-a198-1153c425b556</testCaseGuid>
+   <variable>
+      <defaultValue>'chaitanya'</defaultValue>
+      <description></description>
+      <id>8287d170-220b-40de-ba8a-3ed26e37040b</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'chaitanya'</defaultValue>
+      <description></description>
+      <id>51f4f262-38c7-46db-ab8b-d26e87ec6164</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'mukk'</defaultValue>
+      <description></description>
+      <id>05b13771-6b3c-44e5-8cb5-bae758fcab69</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password1234567'</defaultValue>
+      <description></description>
+      <id>655fd2fe-e7f5-4ee1-9576-831a13af99b0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'chaitanya@gmail.com'</defaultValue>
+      <description></description>
+      <id>61ca69fc-a325-49cb-8932-8ea78dbb59d9</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'none'</defaultValue>
+      <description></description>
+      <id>f32102f9-ecaf-4804-9388-12998b029a44</id>
+      <masked>false</masked>
+      <name>mfaType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password did not conform with policy: Password must have symbol characters'</defaultValue>
+      <description></description>
+      <id>e76f4013-8b66-48e0-b845-90734164a319</id>
+      <masked>false</masked>
+      <name>errormessage</name>
+   </variable>
+</TestCaseEntity>
