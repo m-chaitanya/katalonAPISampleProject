@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>eec67600-d985-4720-9c01-d18c84ad1b1d</dataFileGUID>
-   <dataSourceUrl>/Users/chaitanyamukka/Documents/signup-data.xlsx</dataSourceUrl>
+   <dataSourceUrl>/Users/chaitanyamukka/Desktop/katalonAPISampleProject/Data Files/signup-data.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
